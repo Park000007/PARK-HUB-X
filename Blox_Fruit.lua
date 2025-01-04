@@ -49,7 +49,7 @@ task.spawn(function()
   CameraShaker:Stop()
 end)
 
-_env.CodesRedeem = loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Main/main/Codes_BloxFruit"))()
+_env.CodesRedeem = loadstring(game:HttpGet("https://raw.githubusercontent.com/Park000007/PARK-HUB-X/refs/heads/main/Codes_BloxFruit"))()
 
 _env.BossesList = function()
   local BossTable = {}
